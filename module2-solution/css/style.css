@@ -75,6 +75,6 @@ div {
 
 @media (max-width: 767px) {
   .col-sm-12 {
-    width: auto;
+    width: 100%;
   }
 }
